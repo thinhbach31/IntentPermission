@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Gallery-demo</string>
+    <string name="png">png</string>
+    <string name="jpg">jpg</string>
+    <string name="PNG">PNG</string>
+    <string-array name="image_extention">
+        <item>png</item>
+        <item>PNG</item>
+        <item>jpg</item>
+    </string-array>
 </resources>
